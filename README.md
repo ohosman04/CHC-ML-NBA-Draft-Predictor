@@ -25,7 +25,11 @@ To preserve the chronological integrity of the draft process, we used a Walk-For
 ```bash
 git clone https://github.com/ohosman04/CHC-ML-NBA-Draft-Predictor.git
 ```
-2- Open and run the notebook
+2- Before running the notebook, install all required Python packages using the provided `requirements.txt` file.
+```bash
+pip install -r requirements.txt
+```
+3- Open and run the notebook
 ```bash
 Collab_NotebookFinal.ipynb
 ```
